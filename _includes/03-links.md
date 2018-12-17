@@ -1,1 +1,1 @@
-https://github.com/jbmagination
+[GitHub](https://github.com/jbmagination)
